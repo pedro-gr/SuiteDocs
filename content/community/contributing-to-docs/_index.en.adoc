@@ -6,7 +6,7 @@ chapter: true
 
 == Contributing to the Documentation
 
-
+Anyone can edit any page on the SuiteCRM Documentation site and propose a change.
 
 
 
